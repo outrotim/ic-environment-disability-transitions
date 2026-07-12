@@ -2,8 +2,8 @@
 
 This repository contains the minimum code and aggregate results needed to inspect the
 primary model specification and redraw the three main figures accompanying the manuscript
-*Intrinsic capacity modifies the association between environmental support and transition
-to observed disability: a harmonised study of five ageing cohorts*.
+*Environmental support and transition to disability across intrinsic capacity: a
+harmonised five-cohort study*.
 
 **No individual participant data are included.**
 
