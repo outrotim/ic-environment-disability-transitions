@@ -1,0 +1,17 @@
+Package: icEnvironmentTransitions
+Type: Project
+Title: Intrinsic Capacity, Environmental Support, and Disability Transitions
+Version: 0.1.0
+Authors@R: person(given = "Manuscript", family = "Authors", role = "aut")
+Description: Minimal model specification and aggregate-data figure reproduction code for
+    a harmonised multi-cohort longitudinal observational study.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.4.0)
+Imports:
+    dplyr (>= 1.1.0),
+    ggplot2 (>= 3.5.0),
+    msm (>= 1.8.0),
+    metafor (>= 4.6.0),
+    patchwork (>= 1.3.0),
+    readr (>= 2.1.0)
