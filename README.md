@@ -3,7 +3,7 @@
 This repository contains the minimum code and aggregate results needed to inspect the
 primary model specification and redraw the three main figures accompanying the manuscript
 *Environmental support and transition to disability across intrinsic capacity: a
-harmonised five-cohort study*.
+harmonised analysis of five international ageing cohorts*.
 
 **No individual participant data are included.**
 
